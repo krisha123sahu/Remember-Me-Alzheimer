@@ -1,0 +1,22 @@
+.dashboard {
+  padding: 40px;
+  font-family: Cambria;
+  color: white;
+  min-height: 100vh;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(12px);
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 15px;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
